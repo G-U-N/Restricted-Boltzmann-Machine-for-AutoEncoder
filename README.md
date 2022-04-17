@@ -1,5 +1,5 @@
 # Restricted-Boltzmann-machine-for-AutoEncoder
-Reproduce and Expansion:  Hinton, Geoffrey E., and Ruslan R. Salakhutdinov. "Reducing the dimensionality of data with neural networks." science 313.5786 (2006): 504-507.
+Reproduction and Expansion:  Hinton, Geoffrey E., and Ruslan R. Salakhutdinov. "Reducing the dimensionality of data with neural networks." science 313.5786 (2006): 504-507.
 
 Code and report: comming soon.
 
