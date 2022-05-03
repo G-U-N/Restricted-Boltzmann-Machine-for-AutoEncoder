@@ -12,7 +12,7 @@ import warnings
 import torch.nn.functional as F
 warnings.filterwarnings("ignore")
 
-YOUR_STUDENT_ID = "191300051"
+YOUR_STUDENT_ID = "YOUR_STUDENT_ID"
 
 def train_rbm(model, train_loader, rbm_models, criterion, args):
     print("Begin training..")
