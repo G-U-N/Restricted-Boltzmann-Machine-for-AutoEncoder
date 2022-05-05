@@ -12,7 +12,7 @@ You can use parser to modify hyperparamters, see `parse_option` defined in [util
 <div align="center">
 <h4>Feature Visulization after PCA (784 dimensions -> 30 dimensions)</h4>
 <img src="./saves/t-sne-raw-pca.png" width="500px" title="Feature Visulization after PCA">
-<h4>Feature Visulization after Autoencoder (784 dimensions -> 30 dimensions)</h4>
+<h4>Feature Visulization after Vanilla AutoEncoder (784 dimensions -> 30 dimensions)</h4>
 <img src="./saves/t-sne-mnist-test-autoencoder.png" width="500px" title="Feature Visulization after PCA">
 <h4>Feature Visulization after RBM pretrained AutoEncoder (784 dimensions -> 30 dimensions) <p><font color="#dd0000">Best!!!☺👍</font></p> </h4>
  <img src="./saves/t-sne-mnist-test-bolzmann.png" width="500px" title="Feature Visulization after PCA">
