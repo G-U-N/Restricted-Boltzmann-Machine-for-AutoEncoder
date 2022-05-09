@@ -3,7 +3,6 @@ from matplotlib import pyplot as plt
 from utils import parse_option, set_gpu, PrepareFunc, set_seeds, cal_debias_al_acc, debias_dataloader2tensor
 import sys
 import datetime
-from pprint import pprint
 import torch
 import numpy as np
 from sklearn.decomposition import PCA
